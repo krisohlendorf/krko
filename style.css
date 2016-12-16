@@ -18,9 +18,16 @@ a, img {
 
 #box-one {
     padding: 25px;
+    text-decoration: none;
 }
 
 #box-two {
     padding: 15px;
 }
 
+body {
+width:100%;
+max-width: 400px;
+margin: 0 auto;
+display: block;
+}
