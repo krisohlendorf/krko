@@ -14,10 +14,12 @@ a, img {
 
 #title-box {
     padding: 25px;
+    max-width: 100%;
 }
 
 #box-one {
     padding: 25px;
+    max-width: 100%;
 }
 
 #box-one a {
@@ -26,5 +28,6 @@ a, img {
 
 #box-two {
     padding: 15px;
+    max width: 100%;
 }
 
