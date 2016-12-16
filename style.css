@@ -18,6 +18,9 @@ a, img {
 
 #box-one {
     padding: 25px;
+}
+
+#box-one a {
     text-decoration: none;
 }
 
