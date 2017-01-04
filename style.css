@@ -27,8 +27,7 @@ img {
     display: inline-block;
 }
 .social-icon img {
-    width: 75%;
-    height: auto;
+    width: 100%;
 }
 #title-box {
     padding: 25px;
