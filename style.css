@@ -23,7 +23,8 @@ img {
 }
 .social-icon {
     max-width: 32%;
-    padding: ;
+    max-height: auto;
+    padding: 5px;
     display: inline-block;
 }
 .social-icon img {
