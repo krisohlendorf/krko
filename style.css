@@ -23,12 +23,12 @@ img {
 }
 .social-icon {
     max-width: 32%;
-    max-height: auto;
     padding: 5px;
     display: inline-block;
 }
 .social-icon img {
     width: 75%;
+    height: 75%;
 }
 #title-box {
     padding: 25px;
