@@ -1,33 +1,43 @@
+{
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+main {
+    max-width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
 h1 {
     font-size: 100px;
 }
-
-a img {
-    border:none;
-    outline:none;
+h2 {
+    text-align: center;
 }
-
-a, img {
-    border:none;
-    outline:none;
-}
-
-#title-box {
-    padding: 25px;
+img {
     max-width: 100%;
 }
-
-#box-one {
-    padding: 25px;
-    max-width: 100%;
-}
-
-#box-one a {
+.social-icon {
     text-decoration: none;
 }
-
+.social-icon {
+    max-width: 32%;
+    padding: 5px;
+    display: inline-block;
+}
+.social-icon img {
+    width: 100%;
+}
+#title-box {
+    padding: 25px;
+}
+#box-one {
+    padding: 25px;
+}
 #box-two {
     padding: 15px;
-    max width: 100%;
 }
-
+#soundcloud-widget {
+    max-width: 100%;
+}
