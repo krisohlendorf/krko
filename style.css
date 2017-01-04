@@ -29,7 +29,8 @@ img {
     margin-right: auto;
 }
 .social-icon img {
-    width: 100%;
+    width: 75%;
+    height: auto;
 }
 #title-box {
     padding: 25px;
