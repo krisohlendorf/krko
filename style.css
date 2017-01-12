@@ -38,6 +38,12 @@ img {
 #box-one {
     padding: 20px;
 }
+
+#box-one {
+    display: flex;
+    justify-content: center;
+}
+
 #box-two {
     padding: 10px;
 }
